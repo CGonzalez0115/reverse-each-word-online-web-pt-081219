@@ -8,5 +8,5 @@ def reverse_each_word(sentence2)
     #=> "iH niaga, tsuj gnikam erus s'ti !desrever"
   end
 
-  reverse_each_word(sentence2).collect do
+  reverse_each_word.collect do |sentence1| 
   end
