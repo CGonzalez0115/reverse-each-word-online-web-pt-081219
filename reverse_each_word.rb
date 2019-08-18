@@ -10,3 +10,4 @@ def reverse_each_word(sentence2)
 
   reverse_each_word.collect do |sentence1|
   end
+end
